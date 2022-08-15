@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: DJ Suo - MIT # Website name
-baseURL: 'https://builderpie.github.io/djsuo/' # Website URL
+baseURL: 'https://builderpie.github.io/test_cv_public/' # Website URL
 
 ############################
 ## LANGUAGE
